@@ -1,0 +1,83 @@
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\ApplicationInsights.config
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\roslyn\csc.exe
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\roslyn\csc.exe.config
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\roslyn\csc.rsp
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\roslyn\csi.exe
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\roslyn\csi.rsp
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\roslyn\System.AppContext.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\roslyn\System.Collections.Immutable.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\roslyn\System.IO.FileSystem.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\roslyn\vbc.exe
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\roslyn\vbc.exe.config
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\roslyn\vbc.rsp
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\roslyn\VBCSCompiler.exe
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\roslyn\VBCSCompiler.exe.config
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Facebook Clone.dll.config
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Facebook Clone.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Facebook Clone.pdb
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Antlr3.Runtime.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\EntityFramework.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\EntityFramework.SqlServer.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Microsoft.AI.Web.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Microsoft.AI.WindowsServer.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Microsoft.ApplicationInsights.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Microsoft.AspNet.SignalR.Core.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Microsoft.Owin.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Microsoft.Owin.Security.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Microsoft.Web.Infrastructure.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Newtonsoft.Json.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Owin.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\System.Web.Helpers.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\System.Web.Mvc.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\System.Web.Optimization.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\System.Web.Razor.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\System.Web.WebPages.Deployment.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\System.Web.WebPages.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\System.Web.WebPages.Razor.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\WebGrease.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\EntityFramework.xml
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\EntityFramework.SqlServer.xml
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Microsoft.AspNet.SignalR.Core.xml
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Microsoft.Owin.xml
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Microsoft.Owin.Security.xml
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\System.Web.Helpers.xml
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\System.Web.Mvc.xml
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\System.Web.Optimization.xml
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\System.Web.Razor.xml
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\System.Web.WebPages.xml
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\System.Web.WebPages.Deployment.xml
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\System.Web.WebPages.Razor.xml
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Antlr3.Runtime.pdb
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Newtonsoft.Json.xml
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Microsoft.ApplicationInsights.xml
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Microsoft.AI.WindowsServer.xml
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Microsoft.AI.Web.xml
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\obj\Debug\Facebook Clone.dll
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\obj\Debug\Facebook Clone.pdb
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Facebook Clone.dll.CodeAnalysisLog.xml
+c:\users\teddy\documents\visual studio 2017\Projects\Facebook Clone\Facebook Clone\bin\Facebook Clone.dll.lastcodeanalysissucceeded
